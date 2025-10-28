@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi there 👋 , I'm Preethi Bandari 
 
-<!--
-**bandaripretty/bandaripretty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Software Engineer** | 💻 **AI/ML Enthusiast** | ✍️ **Tech Writer**  
 
-Here are some ideas to get you started:
+Passionate about developing intelligent web applications and using data to drive insights.  
+Skilled in **Python, Java, Spring Boot, SQL, Flask, AWS, and Angular**.  
+I enjoy solving problems, writing RCA documentation  optimizing systems, and exploring innovative technologies.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔹 **Current Focus:** Machine Learning & Web Application Development  
+🔹 **Projects:** [STOCK MARKET PREDICTION WEB APP](https://github.com/bandaripretty/STOCK-MARKET-PREDICTION-WEB-APP)  
+🔹 **Location:** New Haven, Connecticut  
+
+💬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/preethi-bandari)
+
