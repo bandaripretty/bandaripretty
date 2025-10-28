@@ -10,5 +10,5 @@ I enjoy solving problems, writing RCA documentation  optimizing systems, and exp
 🔹 **Projects:** [STOCK MARKET PREDICTION WEB APP](https://github.com/bandaripretty/STOCK-MARKET-PREDICTION-WEB-APP)  
 🔹 **Location:** New Haven, Connecticut  
 
-💬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/preethi-bandari)
+💬 Let’s connect: [LinkedIn](https://www.linkedin.com/in/preethi-bandari-71ba8b202/)
 
